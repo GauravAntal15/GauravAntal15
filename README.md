@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **gauravantal5@gmail.com**
 
-- ⚡ Fun fact **I played 10 Meter rifle shooter.**
+- ⚡ Fun fact **I am Qualified 10 Meter rifle shooter.**
 
 
 
