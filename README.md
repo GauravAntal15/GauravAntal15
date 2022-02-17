@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav Antal</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -9,6 +8,7 @@
 </a>
 <a href="https://github.com/GauravAntal15?tab=followers"><img src="https://img.shields.io/github/followers/GauravAntal15?label=Followers&style=social" alt="GitHub Badge"></a>
 
+ <img src="https://media3.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47nhgga40n0gew5hzzn6ctug6wi367ioqqwq6ii458&rid=giphy.gif&ct=g" align="right"  width="42%"/>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Face Detection using DL](https://covid-19-tracker-e4bda.web.app/)**
