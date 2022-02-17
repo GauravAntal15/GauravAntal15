@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am Qualified 10 Meter rifle shooter.**
 
-- 📄 Find my Resume here [https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing](https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing)
+- 📄 [Find my Resume here](https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
