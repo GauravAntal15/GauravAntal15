@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/GauravAntal15/My_Projects]**(https://github.com/GauravAntal15/My_Projects)
+- 👨‍💻 All of my projects are available at **https://github.com/GauravAntal15/My_Projects**
 
 - 📫 How to reach me **gauravantal5@gmail.com**
 
