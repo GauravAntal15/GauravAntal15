@@ -17,12 +17,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at **[https://github.com/GauravAntal15/My_Projects](https://github.com/GauravAntal15/My_Projects)**
 
 - 📫 How to reach me **gauravantal5@gmail.com**
 
 - ⚡ Fun fact **I am Qualified 10 Meter rifle shooter.**
 
+- 📄 Find my Resume here [https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing](https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
