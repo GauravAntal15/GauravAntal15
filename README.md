@@ -25,7 +25,7 @@
 
 - ⚡ I’m currently learning : React Js
 
-- 📄 [Find my Resume here]([https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing](https://drive.google.com/file/d/1rgQN0wjLNNSrmtWeuObRmVlbavl1InXg/view?usp=sharing))
+- 📄 [Find my Resume here](https://drive.google.com/file/d/1rgQN0wjLNNSrmtWeuObRmVlbavl1InXg/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
