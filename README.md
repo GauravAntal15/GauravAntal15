@@ -11,19 +11,21 @@
  <img src="https://media3.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47nhgga40n0gew5hzzn6ctug6wi367ioqqwq6ii458&rid=giphy.gif&ct=g" align="right"  width="42%"/>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Face Detection using DL](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Software Developement]**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m master **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 💼 Actively Seeking Job/ Internship opportunities
+
 - 👨‍💻 All of my projects are available at [Projects_List](https://github.com/GauravAntal15/My_Projects)
 
-- 📫 How to reach me **gauravantal5@gmail.com**
+- 📫 How to reach me **gauravantal53@gmail.com**
 
-- ⚡ Fun fact **I am Qualified 10 Meter rifle shooter.**
+- ⚡ I’m currently learning : React Js
 
-- 📄 [Find my Resume here](https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing)
+- 📄 [Find my Resume here]([https://drive.google.com/file/d/1QCf6YzXP7Dgad1ewZNoHqhyAXyU2eZYB/view?usp=sharing](https://drive.google.com/file/d/1rgQN0wjLNNSrmtWeuObRmVlbavl1InXg/view?usp=sharing))
 
 
 <h3 align="left">Connect with me:</h3>
