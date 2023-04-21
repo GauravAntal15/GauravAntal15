@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **[Software Developement]**
 
-- 🌱 I’m master **Data Structures and Algorithms.**
+- 🌱 Master in **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
