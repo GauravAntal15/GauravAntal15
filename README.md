@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects_List](https://github.com/GauravAntal15/My_Projects)
 
-- 📫 How to reach me **gauravantal53@gmail.com**
+- 📫 Reach me at **gauravantal53@gmail.com**
 
 - ⚡ I’m currently learning : React Js
 
