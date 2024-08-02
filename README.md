@@ -11,7 +11,7 @@
  <img src="https://media3.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47nhgga40n0gew5hzzn6ctug6wi367ioqqwq6ii458&rid=giphy.gif&ct=g" align="right"  width="42%"/>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Software Developement]**
+- 🔭 I’m currently working on **[Data Analyst]**
 
 - 🌱 Master in **Data Structures and Algorithms.**
 
@@ -23,7 +23,7 @@
 
 - 📫 Reach me at **gauravantal53@gmail.com**
 
-- ⚡ I’m currently learning : React Js
+- ⚡ I’m currently learning : DevOps
 
 - 📄 [Find my Resume here](https://drive.google.com/file/d/1rgQN0wjLNNSrmtWeuObRmVlbavl1InXg/view?usp=sharing)
 
